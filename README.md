@@ -1,2 +1,2 @@
 # ThreeJS
-Three.js Play Ground
+Three.jsのPlay Ground
